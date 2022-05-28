@@ -21,3 +21,13 @@ In this python project, I have made an attendance system which takes attendance 
 5. Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 **📱SCREENSHOTS:**
+**❓ How to use the app?**
+* Download the files from GitHub
+* Install all the modules given in requirements.txt file
+* Run the main.py
+* The application will open
+* To register first enter your id and name
+* Click on take images it will record 100 instances
+* Simply click on save profile and enter the password
+* After registration click on take attendence then the camera terminal will open
+* When it recognizes you press lower case 'q' from keyboard to terminate the window and record attendence.
