@@ -31,12 +31,12 @@ In this python project, I have made an attendance system which takes attendance 
 ![image](https://user-images.githubusercontent.com/84368610/170854065-0532c050-8705-4cdb-8c40-54ba17e1b0a1.png)
 
 **❓ How to use the app?**
-* Download the files from GitHub
-* Install all the modules given in requirements.txt file
-* Run the main.py in vscode
-* The application will open
-* To register first enter your id and name
-* Click on take images it will record 100 instances
-* Simply click on save profile and enter the password
-* After registration click on take attendence then the camera terminal will open
+* Download the files from GitHub.
+* Install all the modules given in requirements.txt file.
+* Run the main.py in vscode.
+* The application will open.
+* To register first enter your id and name.
+* Click on take images it will record 100 instances.
+* Simply click on save profile and enter the password and again click on save profile and renter password.
+* After registration click on take attendence then the camera terminal will open.
 * When it recognizes you press lower case 'q' from keyboard to terminate the window and record attendence.
