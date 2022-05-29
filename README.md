@@ -40,3 +40,5 @@ In this python project, I have made an attendance system which takes attendance 
 * Simply click on save profile and enter the password and again click on save profile and renter password.
 * After registration click on take attendence then the camera terminal will open.
 * When it recognizes you press lower case 'q' from keyboard to terminate the window and record attendence.
+**VIDEO DEMO**
+LINK: https://drive.google.com/file/d/1lRUjKKi6EByoLk_E4LTi-vH5c-SOB9v7/view?usp=sharing
