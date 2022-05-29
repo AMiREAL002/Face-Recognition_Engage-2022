@@ -21,10 +21,19 @@ In this python project, I have made an attendance system which takes attendance 
 5. Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
 **📱SCREENSHOTS:**
+* MAIN SCREEN:
+![image](https://user-images.githubusercontent.com/84368610/170853973-5bc2b261-c3d3-457f-8ead-b259c41f6892.png)
+* TAKING ATTENDANCE:
+![image](https://user-images.githubusercontent.com/84368610/170854022-0ee57253-6bd7-42f9-b6e2-dd9b51362892.png)
+* SHOWING ATTENDANCE TAKEN:
+![image](https://user-images.githubusercontent.com/84368610/170854054-31d8c535-319b-4091-bcb5-09c21b9836fe.png)
+* HELP OPTION IN MENUBAR:
+![image](https://user-images.githubusercontent.com/84368610/170854065-0532c050-8705-4cdb-8c40-54ba17e1b0a1.png)
+
 **❓ How to use the app?**
 * Download the files from GitHub
 * Install all the modules given in requirements.txt file
-* Run the main.py
+* Run the main.py in vscode
 * The application will open
 * To register first enter your id and name
 * Click on take images it will record 100 instances
