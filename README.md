@@ -24,11 +24,11 @@ In this python project, I have made an attendance system which takes attendance 
 * MAIN SCREEN:
 ![image](https://user-images.githubusercontent.com/84368610/170853973-5bc2b261-c3d3-457f-8ead-b259c41f6892.png)
 * TAKING ATTENDANCE:
-![image](https://user-images.githubusercontent.com/84368610/170854022-0ee57253-6bd7-42f9-b6e2-dd9b51362892.png)
+![image](https://user-images.githubusercontent.com/84368610/170857534-01871ef9-97f8-4609-b4de-8f668c62e1f8.png)
 * SHOWING ATTENDANCE TAKEN:
-![image](https://user-images.githubusercontent.com/84368610/170854054-31d8c535-319b-4091-bcb5-09c21b9836fe.png)
+![image](https://user-images.githubusercontent.com/84368610/170857565-ef03e917-a95a-4542-a3f4-8c4583aa4297.png)
 * HELP OPTION IN MENUBAR:
-![image](https://user-images.githubusercontent.com/84368610/170854065-0532c050-8705-4cdb-8c40-54ba17e1b0a1.png)
+![image](https://user-images.githubusercontent.com/84368610/170857577-64d1fb7e-6840-48a0-92b8-124a8b5e96de.png)
 
 **❓ How to use the app?**
 * Download the files from GitHub.
